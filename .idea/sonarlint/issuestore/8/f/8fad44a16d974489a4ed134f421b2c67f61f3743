@@ -1,0 +1,18 @@
+
+š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Œèèü8ÉâíÎ¼2J$5797a2fe-681a-4501-899a-c6d0755f9169
+Ÿ	java:S127""XRefactor the code in order to not assign to this loop counter from within the loop body.(Å‡™«øÿÿÿÿ8ÉâíÎ¼2J$af14283a-c05d-47bc-ba86-cff5a26ed9fd
+‹
+java:S6208"CMerge the previous cases into this one using comma-separated label.(íÓ×—úÿÿÿÿ8ÌâíÎ¼2J$6df9623a-0729-4b38-8cf4-96f783f49b2a
+†
+java:S6208!"CMerge the previous cases into this one using comma-separated label.(æ¿Îá8ÌâíÎ¼2J$d2010248-1ebf-4b9e-aa66-08c98eb36bc7
+‹
+java:S6208%"CMerge the previous cases into this one using comma-separated label.(ÿ¶‹ûÿÿÿÿ8ÌâíÎ¼2J$3ff8d335-39ba-4d26-96b0-cd00c5eb2337
+m	java:S106,"+Replace this use of System.err by a logger.(˜ŸÚá8×âíÎ¼2J$bf1ec4f6-9d39-4223-9825-7d99f68f96c6
+m	java:S1066"+Replace this use of System.err by a logger.(ÅêâÊ8ÙâíÎ¼2J$7a6f4799-d580-4531-bdec-e470bc4b2dfe
+r	java:S106;"+Replace this use of System.err by a logger.(¯ãîùÿÿÿÿ8ÜâíÎ¼2J$4d040c10-df53-4892-a7df-a92e9d1bbd76
+r	java:S106@"+Replace this use of System.err by a logger.(µüîîùÿÿÿÿ8ÜâíÎ¼2J$4d1d6e81-e890-4dea-aef9-9650f8315973
+r	java:S106Y"+Replace this use of System.out by a logger.(Í¿¤ûÿÿÿÿ8áâíÎ¼2J$1fb32aca-b14c-43df-ac3e-81cb454c0145
+r	java:S106Z"+Replace this use of System.out by a logger.(Ïå“Àûÿÿÿÿ8áâíÎ¼2J$180091cd-8ccc-4409-8e6a-6335fd57715e
+r	java:S106["+Replace this use of System.out by a logger.(‡¤ïıÿÿÿÿ8áâíÎ¼2J$b7a600cc-3e25-47dc-8def-e1c05c2c6216
+r	java:S106\"+Replace this use of System.out by a logger.(‡¦ˆßûÿÿÿÿ8ââíÎ¼2J$461811da-8389-4c5f-83cc-6e0c5ca5360e
+r	java:S106]"+Replace this use of System.out by a logger.(Úó¸¢şÿÿÿÿ8ââíÎ¼2J$07b27bef-d454-4a0d-b860-cd253b70743d

@@ -1,0 +1,18 @@
+
+t	java:S127,"XRefactor the code in order to not assign to this loop counter from within the loop body.(Œèèü8ÉâíÎ¼2
+y	java:S1270"XRefactor the code in order to not assign to this loop counter from within the loop body.(Å‡™«øÿÿÿÿ8ÉâíÎ¼2
+e
+java:S6208+"CMerge the previous cases into this one using comma-separated label.(íÓ×—úÿÿÿÿ8ÌâíÎ¼2
+e
+java:S6208/"CMerge the previous cases into this one using comma-separated label.(Óõë·ÿÿÿÿÿ8ÌâíÎ¼2
+e
+java:S62083"CMerge the previous cases into this one using comma-separated label.(ÿ¶‹ûÿÿÿÿ8ÌâíÎ¼2
+G	java:S106:"+Replace this use of System.err by a logger.(˜ŸÚá8×âíÎ¼2
+G	java:S106H"+Replace this use of System.err by a logger.(ÅêâÊ8ÙâíÎ¼2
+L	java:S106M"+Replace this use of System.err by a logger.(¯ãîùÿÿÿÿ8ÜâíÎ¼2
+L	java:S106R"+Replace this use of System.err by a logger.(µüîîùÿÿÿÿ8ÜâíÎ¼2
+G	java:S106~"+Replace this use of System.out by a logger.(ÿúº¿8áâíÎ¼2
+L	java:S106"+Replace this use of System.out by a logger.(Ïå“Àûÿÿÿÿ8áâíÎ¼2
+M	java:S106€"+Replace this use of System.out by a logger.(‡¤ïıÿÿÿÿ8áâíÎ¼2
+G	java:S106"+Replace this use of System.out by a logger.(äƒğ8ââíÎ¼2
+M	java:S106‚"+Replace this use of System.out by a logger.(Úó¸¢şÿÿÿÿ8ââíÎ¼2
